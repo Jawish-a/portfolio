@@ -1,6 +1,19 @@
-.aqua{
-    background: lightslategray ;
+.aqua {
+    background: lightslategray;
 }
-.txt-white{
+
+.txt-white {
     color: white;
+}
+
+.bg-home-image {
+    background: url("photo-1598329576956-4f74d5936247.jfif");
+    background-position: center;
+    background-size: cover;
+}
+
+.btn-skills {
+    font-size: 0.8rem;
+    border-radius: 10rem !important;
+    padding: 0.75rem 1rem !important;
 }
